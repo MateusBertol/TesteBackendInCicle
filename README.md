@@ -34,11 +34,7 @@ Comandos antes da excecução de qualquer rota.<br>
 <strong>php artisan migrate:fresh</strong>
 </p>
 
-<br>
-Para subir o servidor, rode o codigo abaixo
-<br>
-<strong>php artisan serve</strong>
-</p>
+
 
 
 # Cityes
